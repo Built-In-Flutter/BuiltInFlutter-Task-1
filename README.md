@@ -13,3 +13,4 @@ Fork this repository and push the above screenshot to your forked repository. Th
 ##### Deadline : 14th September 6.00 PM
 
 :round_pushpin: *Please ensure that you are using your original profile pic and original name as the server nickname. Otherwise it won't be evaluated.*
+file:///C:/Users/MEGHA/Desktop/Screenshot%20(105).png
