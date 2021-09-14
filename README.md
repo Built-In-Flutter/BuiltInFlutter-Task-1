@@ -3,7 +3,6 @@
 #### Part 1 | Flutter installation
 
 Take a screen shot of "flutter doctor" on command prompt shell.
-![1](AlenKuriakose.png)
 
 #### Part 2 | GitHub
 
